@@ -16,13 +16,13 @@ export default {
       antiCall: true, // reject call
       autoread: true, // auto read message
       database: "database.json", // End .json when using JSON database or use Mongo URI
-      owner: ["62xxxxxxxxxx"], // set owner number on here
+      owner: ["6281524902864"], // set owner number on here
       pairing: "",
       sessionName: "session", // for name session
-      prefix: /^[°•π÷×¶∆£¢€¥®™+✓_|/~!?@#%^&.©^]/i,
+      prefix: /^[.]/i,
       pairingNumber: "", // Example Input : 62xxx
       pathPlugins: "plugins",
-      wm: "*Source:* https://apiruulzz.my.id"
+      wm: "Ren"
    },
    
    // Function Maybee
@@ -39,10 +39,10 @@ export default {
    
    // Set pack name sticker on here
    Exif: {
-      wm: "Rulzz",
+      wm: "Ren",
       packId: "https://apiruulzz.my.id",
       packName: null,
-      packPublish: '         Rulz. - Assistant\n      ——————————————\n\nCreated on date:\n' + sekarang,
+      packPublish: '         Ren. - Assistant\n      ——————————————\n\nCreated on date:\n' + sekarang,
       packEmail: "rullskeyy@gmail.com",
       packWebsite: "https://apiruulzz.my.id",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
